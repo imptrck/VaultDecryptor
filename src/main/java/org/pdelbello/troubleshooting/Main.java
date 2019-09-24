@@ -1,4 +1,4 @@
-package com.redhat.troubleshooting;
+package org.pdelbello.troubleshooting;
 
 import java.util.HashMap;
 import java.util.Map;
